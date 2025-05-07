@@ -18,5 +18,5 @@ Welcome to the **EchoMind MVP Landing Page**, your front door to the AI-driven c
 
 1. **Clone this repository**
    ```bash
-   git clone https://github.com/yourusername/echomind-landing.git
+   git clone https://github.com/ochiengtim/echomind-landing.git
    cd echomind-landing
