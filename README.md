@@ -6,7 +6,7 @@ Welcome to the **EchoMind MVP Landing Page**, your front door to the AI-driven c
 
 🔗 [Visit EchoMind Live](https://yourusername.github.io/echomind-landing/)
 
-## 📌 Features
+##  Features
 
 -  Modern, responsive landing page
 -  Email capture powered by [Formspree.io](https://formspree.io)
