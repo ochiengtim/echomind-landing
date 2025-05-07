@@ -4,7 +4,7 @@ Welcome to the **EchoMind MVP Landing Page**, your front door to the AI-driven c
 
 ##  Live Demo
 
-🔗 [Visit EchoMind Live](https://yourusername.github.io/echomind-landing/)
+🔗 [Visit EchoMind Live](https://ochiengtim.github.io/echomind-landing/)
 
 ##  Features
 
